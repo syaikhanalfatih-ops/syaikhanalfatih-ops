@@ -87,7 +87,7 @@ yang rapi, aman, dan benar-benar dipakai. Bukan sekadar demo yang jalan di lapto
 
 Terbuka untuk kolaborasi, proyek freelance, atau diskusi soal web, mobile, dan AI terapan.
 
-<p>
+<p align="center">
   <a href="mailto:syaikhanalfatih@gmail.com"><img src="https://img.shields.io/badge/syaikhanalfatih@gmail.com-0D1422?style=flat-square&logo=gmail&logoColor=34D399" alt="Kirim email" /></a>
   <a href="https://syaikhanalfatih-ops.github.io"><img src="https://img.shields.io/badge/syaikhanalfatih--ops.github.io-0D1422?style=flat-square&logo=githubpages&logoColor=34D399" alt="Buka portfolio" /></a>
   <a href="https://github.com/syaikhanalfatih-ops"><img src="https://img.shields.io/badge/GitHub-0D1422?style=flat-square&logo=github&logoColor=34D399" alt="GitHub" /></a>
