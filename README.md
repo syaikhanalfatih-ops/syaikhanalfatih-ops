@@ -65,7 +65,7 @@ yang rapi, aman, dan benar-benar dipakai. Bukan sekadar demo yang jalan di lapto
 |:--|:--|:--|
 | **[Pustaka Cerdas](https://github.com/syaikhanalfatih-ops/pustaka_cerdas)** | Perpustakaan digital sekolah — katalog, sirkulasi, QR/barcode, dan rekomendasi buku. | `PHP` `MySQL` `PWA` |
 | **[Absensi AI](https://github.com/syaikhanalfatih-ops/absensi-app)** · [demo](https://absensi-app-pink.vercel.app) | Presensi PWA dengan face recognition on-device, geofencing, dan QR dinamis. | `Node.js` `Express` `Face API` |
-| **[Roblox Store](https://github.com/syaikhanalfatih-ops/roblox-store)** · [demo](https://roblox-store-ten.vercel.app) | Top-up Roblox dengan QRIS otomatis, invoice realtime, dan dashboard admin. | `Next.js` `TypeScript` `Prisma` |
+| **Roblox Store** · [demo](https://roblox-store-ten.vercel.app) | Top-up Roblox dengan QRIS otomatis, invoice realtime, dan dashboard admin. | `Next.js` `TypeScript` `Prisma` |
 | **Kasir POS Hybrid** · [detail](https://syaikhanalfatih-ops.github.io/#proyek) | POS dengan REST API, dashboard React, dan aplikasi kasir React Native. | `React` `React Native` `PostgreSQL` |
 
 <sub>→ Lihat semua proyek beserta catatan teknisnya di <a href="https://syaikhanalfatih-ops.github.io">portfolio</a>.</sub>
