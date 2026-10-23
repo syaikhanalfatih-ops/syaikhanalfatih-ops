@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Syaikhan Al Fatih — Full-Stack Developer &amp; ML Enthusiast</title>
+  <desc id="bannerDesc">Banner profil bernuansa gelap dengan aksen emerald: nama Syaikhan Al Fatih, peran sebagai full-stack developer dan ML enthusiast, kartu terminal berisi status open for collaboration, serta ringkasan 6 proyek, 15+ teknologi, dan 3 platform.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D17"/>
+      <stop offset="0.55" stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#0B1820"/>
+    </linearGradient>
+
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientTransform="translate(1080 -40) rotate(115) scale(470 430)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(60 420) rotate(-60) scale(380 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="cardGlow" cx="0" cy="0" r="1" gradientTransform="translate(1048 182) rotate(90) scale(190 130)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="accent" x1="34" y1="118" x2="34" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="56" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#1F2C42" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#94A3B8" fill-opacity="0.13"/>
+    </pattern>
+
+    <clipPath id="frame">
+      <rect width="1280" height="360" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#dots)"/>
+    <rect width="1280" height="360" fill="url(#glowGreen)"/>
+    <rect width="1280" height="360" fill="url(#glowCyan)"/>
+
+    <!-- top meta -->
+    <circle cx="56" cy="44" r="4" fill="#34D399"/>
+    <text x="72" y="49" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" letter-spacing="2" fill="#7C8BA3">// PROFILE / 2026</text>
+
+    <rect x="1022" y="28" width="202" height="32" rx="16" fill="#34D399" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35"/>
+    <circle cx="1042" cy="44" r="4" fill="#34D399"/>
+    <text x="1056" y="48.5" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" letter-spacing="1.4" fill="#34D399">OPEN FOR COLLAB</text>
+
+    <!-- left accent -->
+    <rect x="32" y="118" width="3" height="144" rx="1.5" fill="url(#accent)"/>
+
+    <!-- name -->
+    <text x="56" y="176" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#F1F5F9">SYAIKHAN AL FATIH<tspan fill="#34D399">_</tspan></text>
+
+    <!-- role -->
+    <text x="56" y="214" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="0.2" fill="#CBD5E1">Full-Stack Developer <tspan fill="#475569">/</tspan> <tspan fill="#34D399">ML Enthusiast</tspan></text>
+
+    <!-- terminal line -->
+    <text x="56" y="250" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" letter-spacing="0.2" fill="#94A3B8"><tspan fill="#34D399">$</tspan> building systems that people actually use</text>
+
+    <path d="M56 282H840" stroke="url(#rule)"/>
+
+    <!-- stats strip -->
+    <text x="56" y="312" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">06</text>
+    <text x="88" y="311" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11.5" letter-spacing="1.2" fill="#7C8BA3">PROJECTS</text>
+    <text x="178" y="312" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="8" fill="#34D399">◆</text>
+    <text x="200" y="312" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">15+</text>
+    <text x="238" y="311" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11.5" letter-spacing="1.2" fill="#7C8BA3">TECHNOLOGIES</text>
+    <text x="352" y="312" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="8" fill="#34D399">◆</text>
+    <text x="374" y="312" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">03</text>
+    <text x="411" y="311" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11.5" letter-spacing="1.2" fill="#7C8BA3">PLATFORMS</text>
+
+    <!-- terminal card -->
+    <ellipse cx="1048" cy="182" rx="250" ry="170" fill="url(#cardGlow)"/>
+    <rect x="872" y="76" width="352" height="208" rx="16" fill="#0B1320" stroke="#1F2C42"/>
+    <circle cx="892" cy="96" r="3.5" fill="#334155"/>
+    <circle cx="908" cy="96" r="3.5" fill="#334155"/>
+    <circle cx="924" cy="96" r="3.5" fill="#34D399"/>
+    <text x="944" y="100" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="10.5" letter-spacing="0.4" fill="#64748B">syaikhan@saf:~</text>
+    <path d="M872 112H1224" stroke="#1F2C42"/>
+
+    <text x="892" y="140" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#34D399">$ whoami</text>
+    <text x="892" y="164" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F1F5F9">Syaikhan Al Fatih</text>
+    <text x="892" y="183" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94A3B8">Full-Stack Developer &amp; ML Enthusiast</text>
+
+    <text x="892" y="214" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11" letter-spacing="0.4" fill="#64748B">location</text>
+    <text x="972" y="214" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#CBD5E1">Indonesia</text>
+
+    <text x="892" y="236" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11" letter-spacing="0.4" fill="#64748B">focus</text>
+    <text x="972" y="236" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#CBD5E1">Web · Mobile · Applied AI</text>
+
+    <text x="892" y="258" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11" letter-spacing="0.4" fill="#64748B">status</text>
+    <circle cx="978" cy="254" r="3.5" fill="#34D399"/>
+    <text x="988" y="258" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" fill="#34D399">open for collab</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="19.5" stroke="#1F2C42"/>
+</svg>
